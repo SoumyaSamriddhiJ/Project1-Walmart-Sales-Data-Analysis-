@@ -9,7 +9,8 @@ The main goal of this project is to gain understanding from Walmart's sales data
 
 About Data
 
-This project's data was obtained from the Kaggle Walmart Sales Forecasting Competition and it encompasses sales transactions from three Walmart branches situated in Mandalay, Yangon, and Naypyitaw, respectively. The data contains 17 columns and 1000 rows:
+This project's data was obtained from the Kaggle Walmart Sales Forecasting Competition and it encompasses sales transactions from three Walmart branches situated in Mandalay, Yangon, and Naypyitaw, respectively. 
+The data contains 17 columns and 1000 rows:
 
 Column	Description	Data Type
 invoice_id	Invoice of the sales made	VARCHAR(30)
@@ -29,7 +30,9 @@ cogs	Cost Of Goods sold	DECIMAL(10, 2)
 gross_margin_pct	Gross margin percentage	FLOAT(11, 9)
 gross_income	Gross Income	DECIMAL(12, 4)
 rating	Rating	FLOAT(2, 1)
+
 Analysis List:
+
 Product Analysis
 Perform an analysis on the data to gain insights into different product lines, determine the top-performing product lines, and identify areas for improvement in other product lines.
 
